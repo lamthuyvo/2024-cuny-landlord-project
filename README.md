@@ -1,4 +1,4 @@
-Izsak# Analysis of NYC landlord Tax Commission Income and Expense data (2021)
+# Analysis of NYC landlord Tax Commission Income and Expense data (2021)
 This repository contains data, analytic code, and findings that support a portion of the Advanced Data class' final project from Dashiell Allen, Génesis Dávila Santiago, María Mónica Fernández, Deidre Foley, Yi Liu, Nicholas Morgan, Jonnathan Pulla, Rebecca Redelmeier, Liz Rosenberg and Impu Sehgal.
 
 
